@@ -1,16 +1,6 @@
-# wisata_toraja
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Aplikasi Wisata Toraja
+![wisata toraja](https://user-images.githubusercontent.com/116169431/207923539-27abdae7-ce80-4268-a9ff-f208514d9feb.png)
+![wisata_toraja](https://user-images.githubusercontent.com/116169431/207923555-11388ae3-117c-4cce-8344-7cce50adbd80.png)
+# Salza Bila Susan
+3.34.21.2.22 <br>
+IK2C
